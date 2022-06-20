@@ -27,7 +27,7 @@ My Azure resume, following the [Azure Cloud Resume Challenge.](https://www.youtu
 - Cloud: Azure, AzureFunction, CosmosDB, Azure CDN
 <hr>
 
-## Challenges
+## Challenges I Faced
 - Troubleshooting in CI/CD process to get workflow actions to run sucesfully
 - Adjusting YAML formatting to run properly
 - Properly triggering AzureFunction
